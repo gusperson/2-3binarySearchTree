@@ -1,0 +1,3 @@
+interface 23BSTInterafce {
+	
+}
