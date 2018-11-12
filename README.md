@@ -1,3 +1,2 @@
 2-3binarySearchTree
-practice push
-practice pull
+a 2/3 binary search implementation in java as well as familiarizing myself with git 
