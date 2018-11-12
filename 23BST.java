@@ -4,23 +4,26 @@ public class 23BST {
 
 
 	protected class Node{
-		int maxkey;
-		int middlekey;
-		int minkey;
+		int key1;
+		int key2;
+		int key3;  //extra storage when moving keys around
+		int amountofkeys;
 
 		Node left;
 		Node middle;
 		Node right;
 
 		Node(int k, int j, int m, Node l, Node m, Node r){
-			minkey = k;
-			maxkey = j;
-			middlekey = m;
+			key1 = k;
+			key2 = j;
+			key3 = m;
 			left = l;
 			middle = m;
 			right = r;
 
 		}
+
+
 
 	}
 
