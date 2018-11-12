@@ -1,2 +1,3 @@
 2-3binarySearchTree
-practice push/pull
+practice push
+practice pull
